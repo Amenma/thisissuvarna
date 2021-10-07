@@ -1,3 +1,2 @@
 # thisissuvarna
-My repository index 
-.
+This is my repository
